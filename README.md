@@ -99,7 +99,7 @@ python 7_Decision_Trees_C45_algorithm.py
 ![Output](https://github.com/anshul98ks123/ML-Algorithms/blob/master/images/Figure_10.png)
 
 
-## 8. Decision Tree using C4.5 Algorithm
+## 8. SVM Algorithm
 Live plotting of points by mouse clicks along with plotting of maximum seperating hyperplane. 
 
 Use left-click and right-click for plotting points corresponding to class 1 and class 2 respectively.
